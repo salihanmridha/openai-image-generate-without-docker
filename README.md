@@ -33,7 +33,7 @@ The objective is to build a simple web application to provide this functionality
 
 
 ### Installation
-- Clone the repository (`git clone https://github.com/salihanmridha/openai-image-generate .`) in your project directory.
+- Clone the repository (`git clone https://github.com/salihanmridha/openai-image-generate-without-docker.git .`) in your project directory.
 - Navigate to the root directory of the project by terminal.
 - RUN `composer install` command.
 - RUN `cp .env.example .env`
